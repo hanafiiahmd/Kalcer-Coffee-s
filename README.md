@@ -51,9 +51,6 @@ Peak Hour: 10:00 AM — $8,676
 
 Lowest Hour: 6:00 AM — $118.64
 
-# Dashboard Preview
-
-
 # Conclusion
 
 Overall sales performance indicates steady growth across 2024–2025, with total revenue reaching $92.92K and over 2,900 cups sold.
