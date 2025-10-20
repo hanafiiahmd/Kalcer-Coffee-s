@@ -16,17 +16,12 @@ In addition, the company wants to analyze historical transaction data from its e
 3. Business Performance Dashboard
 - How can we design and build an interactive dashboard that tracks Kalcer Coffee’s business growth over time?
 
-4. Sales Forecasting
-- How can we forecast the total number of transactions for the next 7 days to help in inventory and staffing planning?
-
 # Project Objectives
 This project aims to:
 1. Provide data-driven insights on product performance and customer behavior.
 2. Develop a comprehensive dashboard for business tracking and reporting.
-3. Build a forecasting model to predict short-term transaction trends.
-4. Support Kalcer Coffee’s in strategic decision-making using analytics and visualization.
+3. Support Kalcer Coffee’s in strategic decision-making using analytics and visualization.
 
 # Tools
 1. SQL – Used for data cleaning, preprocessing, and exploratory data analysis (EDA).
 2. Power BI – Used to develop the interactive business performance dashboard and visualize key metrics.
-3. Python – Used to build the forecasting model for predicting total transactions 7 days ahead.
